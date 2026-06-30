@@ -3,3 +3,5 @@ NOMBRE DE USUARIOS, NOMBRES Y CÓDIGO:
 2. francescomorote-source - Morote Barboza, Francesco - 20240721
 3. SAAVEDRA2029 - Saavedra Quispe, Aaron Paolo - 20230702
 4. Azloup - Zuazo Farje, Adrián Fabrizio - 20211835
+
+OBJETIVO, INSTALACIÓN, ESTRUCTURA Y RESULTADOS DETALLADOS EN EL INFORME "TRABAJO.ipynb" 
